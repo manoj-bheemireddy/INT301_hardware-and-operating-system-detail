@@ -1,0 +1,1 @@
+# INT301_hardware-and-operating-system-detail
